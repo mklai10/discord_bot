@@ -1,0 +1,34 @@
+{
+    "Player": [],
+    "User": [
+        {
+            "image": "https://cdn.discordapp.com/attachments/703097181845979196/952773114801061948/unknown.png",
+            "xpNeeded": 10,
+            "level": 1,
+            "name": "RealEntréeCau",
+            "xp": 6,
+            "desc": "hi "
+        },
+        {
+            "image": "https://cdn.discordapp.com/attachments/703097181845979196/832129981370990593/ajwm5.png",
+            "xpNeeded": 10,
+            "level": 1,
+            "name": "Grape",
+            "xp": 0,
+            "desc": "No Desc"
+        },
+        {
+            "image": "https://cdn.discordapp.com/attachments/703097181845979196/832129981370990593/ajwm5.png",
+            "xpNeeded": 10,
+            "level": 1,
+            "name": "Dog",
+            "xp": 1,
+            "desc": "No Desc"
+        }
+    ],
+    "name": "Server Game",
+    "GameState": [{
+        "name": "state",
+        "state": false
+    }]
+}
